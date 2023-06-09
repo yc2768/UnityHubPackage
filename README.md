@@ -1,0 +1,2 @@
+# UnityHubPackage
+Unity Hub Package
